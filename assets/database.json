@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Basic Electrical Engineering",
+    "room": "R-412",
+    "time": "10:00 - 11:30",
+    "day": 7
+  },
+  {
+    "name": "Discrete Mathematics",
+    "room": "R-412",
+    "time": "1:00 - 2:30",
+    "day": 7
+  },
+  {
+    "name": "Structured Programming Language",
+    "room": "R-412",
+    "time": "2:30 - 4:00",
+    "day": 7
+  },
+  {
+    "name": "Basic Electrical Engineering",
+    "room": "R-501",
+    "time": "08:30 - 10:00",
+    "day": 1
+  },
+  {
+    "name": "Calculus",
+    "room": "R-214",
+    "time": "10:00 - 11:30",
+    "day": 1
+  },
+  {
+    "name": "History of Emergence of the Independent Bangladesh",
+    "room": "R-412",
+    "time": "1:00 - 2:30",
+    "day": 1
+  },
+  {
+    "name": "Structured Programming Language",
+    "room": "R-214",
+    "time": "08:30 - 10:00",
+    "day": 2
+  },
+  {
+    "name": "Basic Electrical Engineering Lab",
+    "room": "R-310",
+    "time": "10:00 - 1:00",
+    "day": 2
+  },
+  {
+    "name": "Discrete Mathematics",
+    "room": "R-412",
+    "time": "1:00 - 2:30",
+    "day": 2
+  },
+  {
+    "name": "Calculus",
+    "room": "R-412",
+    "time": "10:00 - 11:30",
+    "day": 3
+  },
+  {
+    "name": "Structured Programming Language Lab",
+    "room": "R-301",
+    "time": "10:00 - 1:00",
+    "day": 3
+  },
+  {
+    "name": "Structured Programming Language Lab",
+    "room": "R-309",
+    "time": "10:00 - 1:00",
+    "day": 4
+  },
+  {
+    "name": "History of Emergence of the Independent Bangladesh",
+    "room": "R-412",
+    "time": "1:00 - 2:30",
+    "day": 4
+  }
+]
