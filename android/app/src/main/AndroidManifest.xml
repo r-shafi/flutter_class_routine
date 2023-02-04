@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.class_routine">
+    package="live.shafi.class_routine">
    <application
-        android:label="class_routine"
+        android:label="CSE Spring 2023"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
