@@ -26,7 +26,12 @@ const schedule = [
     "time": "08:30 AM - 10:00 AM",
     "day": 1
   },
-  {"name": "Calculus", "room": "R-214", "time": "10:00 AM - 11:30", "day": 1},
+  {
+    "name": "Calculus",
+    "room": "R-214",
+    "time": "10:00 AM - 11:30 AM",
+    "day": 1
+  },
   {
     "name": "History of Emergence of the Independent Bangladesh",
     "room": "R-412",
