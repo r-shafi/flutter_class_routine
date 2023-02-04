@@ -96,6 +96,8 @@ class HomeScreen extends StatelessWidget {
           centerTitle: true,
           bottom: const TabBar(
             indicatorColor: Colors.deepPurpleAccent,
+            labelColor: Colors.deepPurpleAccent,
+            unselectedLabelColor: Colors.white70,
             tabs: [
               Tab(text: 'Sun'),
               Tab(text: 'Mon'),
@@ -105,12 +107,12 @@ class HomeScreen extends StatelessWidget {
             ],
           ),
         ),
-        body: Padding(
-          padding: const EdgeInsets.all(10),
-          child: TabBarView(
-            children: List.generate(
-              5,
-              (index) => ListView(
+        body: TabBarView(
+          children: List.generate(
+            5,
+            (index) => Padding(
+              padding: const EdgeInsets.all(10),
+              child: ListView(
                 children: List.generate(
                   schedule.length,
                   (i) => schedule[i]['day'] == index
